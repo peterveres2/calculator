@@ -79,7 +79,7 @@
 							<goal>checkstyle-aggregate</goal>
 						</goals>
 						<configuration>
-							<failOnViolation>true</failOnViolation>
+							<failOnViolation>false</failOnViolation>
 						</configuration>
 					</execution>
 				</executions>
